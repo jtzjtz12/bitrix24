@@ -14,3 +14,7 @@
 
 ### gc_contact
 * Integration of the leeloo.ai service with the getcourse.ru service with an entry in the bitrix table.
+
+### gk-wayforpay
+* Parsing a push request from wayforpay.com about payment.
+* Integration with getcourse.ru and product status change.
