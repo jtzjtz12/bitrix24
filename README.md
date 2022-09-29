@@ -1,5 +1,5 @@
 # bitrix24
-#### Интеграция сервиса bizon365.ru с bitrix24.
-* Коробочная версия bitrix добавляет контакты и сделки.
-* push запрос отправляется в файл index.php сами запросы не идут через облако bitrix и не имеют ограничения по количеству.
-* X-Token: вставляем свой токен от bizon365
+#### Integration of the service bizon365.ru with bitrix24.
+* The boxed version of bitrix adds contacts and deals.
+* push request is sent to the index.php file, the requests themselves do not go through the bitrix cloud and have no limit on the number.
+* X-Token: insert your token from bizon365
