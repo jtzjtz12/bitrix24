@@ -8,13 +8,12 @@ $data1 = json_decode($json1,1);
 file_put_contents(__DIR__."/log.txt", date("Y-m-d H:i:s")."\r\n".print_r($data1, true)."\r\r\n\n", FILE_APPEND | LOCK_EX);
 
 
-//$webId="3918:kxpwdu6c2r*2022-02-11T14:24:38";
 
  $webId=$data1['webinarId'];
 
 $url="https://online.bizon365.ru/api/v1/webinars/reports/get?webinarId=$webId";
  $headers = [
-	"X-Token: HbW2NDzkcS-e-hEDfJcH-Wb3EDGyqBZGWnNPz1cSW7ZhEvf1q"
+	"X-Token:  СВОЙ"
 ];
   
 if( $curl = curl_init() ) {
