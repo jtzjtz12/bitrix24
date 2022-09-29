@@ -5,5 +5,5 @@
 * X-Token: insert your token from bizon365
 * A log file named log.txt will be created in the current directory
 
-## gc_contact
-* Include стандартный путь к конфигурации доступа базе bitrix 
+### gc_contact
+* Include standard path to bitrix database access configuration 
