@@ -3,3 +3,4 @@
 * The boxed version of bitrix adds contacts and deals.
 * push request is sent to the index.php file, the requests themselves do not go through the bitrix cloud and have no limit on the number.
 * X-Token: insert your token from bizon365
+* A log file named log.txt will be created in the current directory
