@@ -6,4 +6,5 @@
 * A log file named log.txt will be created in the current directory
 
 ### gc_contact
-* Include standard path to bitrix database access configuration 
+* New contacts are being added or they are being updated
+* Include standard path to bitrix database access configuration
