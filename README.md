@@ -8,3 +8,6 @@
 ### gc_contact
 * New contacts are being added or they are being updated
 * Include standard path to bitrix database access configuration
+
+###  wayforpay_val
+* API updating currencies through the api.wayforpay.com service in the bitrix database
